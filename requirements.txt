@@ -1,0 +1,19 @@
+tensorflow	#Google's deep learning library for building and training ML models
+pandas	#Data manipulation and analysis library (tables, DataFrames)
+gdown	#Download files from Google Drive via a terminal
+dvc	#Data Version Control – manages datasets and models like Git for data
+mlflow==2.2.2	#ML lifecycle tool for tracking experiments, models, and deployment
+notebook	#Jupyter Notebook support – needed to run .ipynb files
+numpy	#Core library for numerical operations and arrays
+matplotlib	#Library to create visualizations (plots, graphs)
+seaborn	#Statistical data visualization (built on top of matplotlib)
+python-box==6.0.2	#Makes dictionaries behave like objects (access keys as attributes)
+pyYAML	#YAML parsing and writing – useful for config files like params.yaml
+tqdm	#Adds progress bars in loops and scripts
+ensure==1.0.2	#Helps enforce Python function contracts (preconditions/postconditions)
+joblib	#Efficient saving/loading of models, and parallel processing
+types-PyYAML	#Type hints for pyYAML (helps with static analysis or type checking)
+scipy	#Scientific computing – optimization, integration, interpolation, etc.
+Flask	#Web framework for building APIs or web apps
+Flask-Cors #
+-e .
