@@ -22,7 +22,8 @@
 - [Project Youtube Playlist Link](https://youtube.com/playlist?list=PLkz_y24mlSJbaIL1wDOul5g45E6S8k-3P&si=zFK0GuM7MfwdKM6x)
 
 
-- [Data Link](https://drive.google.com/file/d/1z0mreUtRmR-P-magILsDR3T7M6IkGXtY/view?usp=sharing)
+- [Data Link](https://drive.google.com/file/d/1HJr8kffWvr0U1eWINK_kohvDyHcTSCwg/view?usp=sharing)
+
 
 ## How to run?
 
